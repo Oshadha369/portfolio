@@ -28,13 +28,11 @@ A professional, responsive portfolio website designed to showcase my Full Stack 
 |:---:|:---:|
 | <img src="images/screenshot-light.png" width="300"> | <img src="images/screenshot-dark.png" width="300"> |
 
-*(Note: You can take screenshots of your site later and add them to an 'images' folder to make this section appear)*
-
 ## 🏃‍♂️ How to Run Locally
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/portfolio.git
+    git clone [https://github.com/](https://github.com/)[Oshadha369]/portfolio.git
     ```
 2.  **Navigate to the project directory**
     ```bash
