@@ -4,7 +4,7 @@
 
 A professional, responsive portfolio website designed to showcase my Full Stack Development and Design projects.
 
-### 🚀 [View Live Demo](https://[YOUR_USERNAME].github.io/portfolio/)
+### 🚀 [View Live Demo](https://[Oshadha369].github.io/portfolio/)
 
 ---
 
@@ -44,9 +44,9 @@ A professional, responsive portfolio website designed to showcase my Full Stack 
 
 ## 📬 Contact
 
-* **Email:** [your.email@example.com]
+* **Email:** [oshadhamularaja@gmail.com]
 * **LinkedIn:** [linkedin.com/in/yourprofile]
-* **GitHub:** [github.com/yourusername]
+* **GitHub:** [github.com/Oshadha369]
 
 ---
 *© 2025 [Your Name]. Licensed under MIT.*
